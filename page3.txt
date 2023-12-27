@@ -1,2 +1,2 @@
-this is feature branch
+this is master branch. i am now in feature branch
 
