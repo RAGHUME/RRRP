@@ -1,2 +1,2 @@
-this is master branch. i am now in feature branch
+this is master branch. i am now in feature branch. now i am adding to repositry.
 
